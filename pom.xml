@@ -51,7 +51,7 @@
     <org.jsoup.jsoup.version>1.11.3</org.jsoup.jsoup.version>
     <com.squareup.okhttp3.okhttp.version>3.11.0</com.squareup.okhttp3.okhttp.version>
 
-    <org.eclipse.jetty.jetty-server.version>9.4.17.v20190418</org.eclipse.jetty.jetty-server.version>
+    <org.eclipse.jetty.jetty-server.version>9.4.35.v20201120</org.eclipse.jetty.jetty-server.version>
     <org.eclipse.jetty.jetty-webapp.version>9.4.17.v20190418</org.eclipse.jetty.jetty-webapp.version>
     <org.eclipse.jetty.jetty-servlet.version>9.4.17.v20190418</org.eclipse.jetty.jetty-servlet.version>
     
