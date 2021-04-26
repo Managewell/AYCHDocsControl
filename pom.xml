@@ -18,7 +18,7 @@
     <!-- Dependencies version (external) -->
     <org.apache.commons.commons-compress.version>1.18</org.apache.commons.commons-compress.version>
     <commons-lang.commons-lang.version>2.6</commons-lang.commons-lang.version>
-    <commons-io.commons-io.version>2.6</commons-io.commons-io.version>
+    <commons-io.commons-io.version>2.7</commons-io.commons-io.version>
     <org.apache.commons.commons-email.version>1.5</org.apache.commons.commons-email.version>
     <org.freemarker.freemarker.version>2.3.28</org.freemarker.freemarker.version>
     <commons-dbcp.version>1.4</commons-dbcp.version>
