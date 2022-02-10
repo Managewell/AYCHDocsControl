@@ -37,7 +37,7 @@
     <org.apache.pdfbox.pdfbox.version>2.0.12</org.apache.pdfbox.pdfbox.version>
     <org.bouncycastle.bcprov-jdk15on.version>1.61</org.bouncycastle.bcprov-jdk15on.version>
     <joda-time.joda-time.version>2.10</joda-time.joda-time.version>
-    <org.hibernate.hibernate.version>5.3.7.Final</org.hibernate.hibernate.version>
+    <org.hibernate.hibernate.version>5.4.24.Final</org.hibernate.hibernate.version>
     <javax.servlet.javax.servlet-api.version>4.0.1</javax.servlet.javax.servlet-api.version>
     <fr.opensagres.xdocreport.version>2.0.1</fr.opensagres.xdocreport.version>
     <net.java.dev.jna.jna.version>4.2.1</net.java.dev.jna.jna.version>
